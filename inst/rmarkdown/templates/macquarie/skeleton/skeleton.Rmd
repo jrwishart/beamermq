@@ -92,6 +92,5 @@ knitr::kable(head(mtcars),
 ## Resources
 
 * See the [RMarkdown repository](https://github.com/rstudio/rmarkdown) for more on RMarkdown
-* Also the 
 
 ## References
